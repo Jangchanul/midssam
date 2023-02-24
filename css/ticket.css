@@ -1,0 +1,22 @@
+@import 'font.css';
+.ticket_buy{padding-bottom: 5.556vw;}
+.ticket_buy .top{width: 92%;margin: 0 auto 4.444vw;display: flex;justify-content: space-around;align-items: center;padding: 5.556vw 0;border-bottom: 1px solid #EEE;}
+.ticket_buy .top .a1{font-size: 5vw;font-weight: bold;}
+.ticket_buy .top .a1 .b1{font-family: gongb;}
+.ticket_buy .top .a1 .b2{font-family: gongb;color: #FF0000;}
+.ticket_buy .top .a2{width: 23.889vw;}
+.ticket_buy .mid{width: 92%;margin: 0 auto 11.111vw;border: 1px solid #EEE;}
+.ticket_buy .mid .a1{font-weight: bold;font-size: 4.444vw;text-align: center;padding: 6.667vw 0;}
+.ticket_buy .mid .a1 span{color: #FF0000;}
+.ticket_buy .mid .a2{background: #F9F9F9;border: 1px solid #E2E2E2;padding: 4.444vw 3.333vw;box-sizing: border-box;width: 92%;margin: 0 auto 2.778vw;font-size: 4.444vw;font-weight: bold;}
+.ticket_buy .mid .a2 .b1{color: #FF0000;}
+.ticket_buy .mid .swiper{background: #F9F9F9;border: 1px solid #E2E2E2;width: 92%;margin: 0 auto 4.444vw;height: 40.833vw;}
+.ticket_buy .mid .swiper-slide{height: 100%;position: relative;}
+.ticket_buy .mid .swiper-slide p{position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);text-align: center;font-weight: bold;}
+.ticket_buy .mid .swiper-pagination-bullet-active{background: #FF0000;}
+.ticket_buy .mid .a3{width: 92%;margin: 0 auto;border-top: 1px solid #E2E2E2;padding: 5.556vw 0;display: flex;justify-content: space-between;align-items: center;}
+.ticket_buy .mid .a3 .b1 figure{background: url(../img/bt.png)no-repeat center top/cover;width: 16.944vw;height: 16.944vw;position: relative;margin: 0 auto 1.111vw;}
+.ticket_buy .mid .a3 .b1 .c1{position: absolute;top: 50%;left: 0;transform: translateY(-50%);font-size: 4.444vw;font-weight: bold;}
+.ticket_buy .mid .a3 .b1 .c2{position: absolute;bottom: 0;left: 0;font-size: 3.333vw;text-decoration: line-through;}
+.ticket_buy .mid .a3 .b1 .c3{font-size: 5vw;font-weight: bold;color: #FF0000;}
+.ticket_buy .bt_buy{display: block;width: 92%;margin: 0 auto;background: #FF0000;color: #FFF;padding: 4.444vw 0;font-size: 4.444vw;font-weight: bold;border-radius: 2.222vw;}

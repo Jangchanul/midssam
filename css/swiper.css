@@ -1,0 +1,11 @@
+.main .swiper-slide {
+    width: 80%;
+}
+
+.main .swiper-slide:nth-child(2n) {
+    width: 60%;
+}
+
+.main .swiper-slide:nth-child(3n) {
+    width: 40%;
+}

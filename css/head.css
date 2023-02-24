@@ -1,0 +1,25 @@
+@import 'font.css';
+.main_head{position: relative;padding: 4.444vw 0;width: 92%;margin: 0 auto;}
+.main_head>div{width: 29.167vw;margin: 0 auto;}
+.main_head .s_head{width: 92%;margin: 0 auto;text-align: center;font-family: gongm;font-size: 5.556vw;}
+.main_head button{position: absolute;top: 50%;right: 0;width: 5.556vw;transform: translateY(-50%);}
+
+.search_head{background: #fff;padding: 4.444vw 0;}
+.search_head>div{width: 92%;margin: 0 auto;display: flex;justify-content: space-between;align-items: center;}
+.search_head .back{width: 2.5vw;}
+.search_head .bt_ser{width: 5.556vw;}
+.search_head input{width: 85%;}
+.search_head input::placeholder{font-size: 4.444vw;}
+
+.sub_head{padding: 4.444vw 0;}
+.sub_head>div{width: 92%;margin: 0 auto;position: relative;}
+.sub_head .back{width: 2.5vw;position: absolute;top: 50%;left: 0;transform: translateY(-50%);}
+.sub_head>div>p{text-align: center;font-weight: bold;font-size: 5vw;}
+.sub_head .bbig{font-family: gongm;font-size: 5.556vw;}
+
+.bt_manual{width: 8.333vw;display: block;height: 10vw;position: absolute;top: 50%;right: 0;transform: translateY(-50%);}
+
+.manual{position: fixed;top: 0;left: 0;width: 100%;z-index: 99;height: 100%;background: url(../img/manual2.png)no-repeat center center/cover;}
+.manual button{position: absolute;top: 3%;right: 5%;width: 9.167vw;height: 9.167vw;}
+
+.bt_share{position: absolute;top: 50%;right: 0;transform: translateY(-50%);width: 8.889vw;height: 8.889vw;}

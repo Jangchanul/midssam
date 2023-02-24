@@ -1,0 +1,40 @@
+#switch {
+    display: none;
+}
+
+.switch_label {
+    position: relative;
+    display: inline-block;
+    width: 11.944vw;
+    height: 5.556vw;
+    background: #BCBCBC;
+    border-radius: 5.556vw;
+    transition: 0.2s;
+}
+
+.onf_btn {
+    position: absolute;
+    top: 0.556vw;
+    left: 0.556vw;
+    display: inline-block;
+    width: 4.5vw;
+    height: 4.5vw;
+    border-radius: 5.556vw;
+    background: #FFF;
+    transition: 0.2s;
+}
+
+/* checking style */
+#switch:checked+.switch_label {
+    background: #FF0000;
+}
+
+#switch:checked+.switch_label:hover {
+    background: #FF0000;
+}
+
+/* move */
+#switch:checked+.switch_label .onf_btn {
+    left: 25px;
+    box-shadow: 1px 2px 3px #00000020;
+}

@@ -1,0 +1,57 @@
+@import 'font.css';
+
+.dubbing{padding-bottom: 16.944vw;}
+.dubbing .top{padding: 5.556vw 0;}
+.dubbing .top .a1{display: flex;justify-content: center;align-items: center;margin-bottom: 5vw;}
+.dubbing .top .a1 p{font-family: nab;padding: 0 1.111vw;}
+.dubbing .top .a1 span{display: inline-block;width: 1.111vw;}
+.dubbing .top .a2{width: 92%;margin: 0 auto;display: flex;justify-content: space-evenly;align-items: center;}
+.dubbing .top .a2 .box{border: 1px solid #A7A7A7;width: 45%;padding-bottom: 2.778vw;}
+.dubbing .top .a2 .b1{margin-bottom: 2.778vw;}
+.dubbing .top .a2 .b2{margin-bottom: 1.389vw;font-family: nab;width: 92%;margin: 0 auto;}
+.dubbing .top .a2 .b3{margin-bottom: 2.778vw;font-family: nab;color: #FF0000;width: 92%;margin: 0 auto;}
+
+.dubbing .mid .a1{display: flex;justify-content: space-between;align-items: flex-end;background: #F8f8f8;padding: 8.333vw 4.167vw 3.333vw 4.167vw;}
+.dubbing .mid .a1 .b1{font-family: nabb;font-size: 5vw;color: #FF0000;}
+.dubbing .mid .a1 .b1 span{display: inline-block;width: 2.778vw;border-bottom: 1px solid #FF0000;}
+.dubbing .mid .a2 .b1{width: 92%;margin: 0 auto;border-bottom: 1px solid #F2F2F2;padding: 4.167vw 0;display: flex;align-items: center;font-family: nab;}
+.dubbing .mid .a2 .b1 span{color: #FF0000;}
+.dubbing .mid .a2 .b1 img{width: 8.333vw;height: 8.333vw;border-radius: 50%;overflow: hidden;margin: 0 2.778vw;}
+
+.dubbing .bot{background: #F8f8f8;padding: 8.333vw 0;}
+.dubbing .bot>.a1{margin-bottom: 8.333vw;}
+.dubbing .bot>.a1 .b1{display: flex;justify-content: space-between;align-items: flex-end;width: 92%;margin: 0 auto 3.889vw;}
+.dubbing .bot>.a1 .b1 .c1{font-size: 5vw;font-family: nab;}
+.dubbing .bot>.a1 .b1 .c1 span{display: inline-block;border-bottom: 1px solid #000;width: 2.778vw;}
+.dubbing .bot .swiper{width: 92%;margin: 0 auto;}
+.dubbing .list .a1{border-radius: 2.222vw;overflow: hidden;margin-bottom: 2.222vw;}
+.dubbing .list .a2{font-family: nab;margin-bottom: 1.111vw;}
+.dubbing .list .a2 span{color: #FF0000;}
+.dubbing .list .a3{font-size: 3.611vw;color: #848484;}
+
+.rangking{padding: 5.556vw 0;}
+.rangking .a1{display: flex;align-items: center;padding: 4.167vw 0;border-bottom: 1px solid #eee;font-family: nab;width: 92%;margin: 0 auto;position: relative;}
+.rangking .a1 .b1{color: #FF0000;}
+.rangking .a1 img{margin: 0 2.778vw;width: 8.333vw;height: 8.333vw;border-radius: 50%;overflow: hidden;}
+.rangking .a1 .b2{position: absolute;bottom: -35.556vw;left: 7.222vw;width: 50.556vw;padding: 2.778vw;box-sizing: border-box;border: 1px solid #D9D9D9;background: #FFF;z-index: 1;display: none;}
+.rangking .a1 .b2 .c1{margin-bottom: 1.389vw;display: flex;align-items: center;}
+.rangking .a1 .b2 .c1 img{border-radius: 50%;width: 8.333vw;height: 8.333vw;overflow: hidden;}
+
+.dat_box{padding-bottom: 13.889vw;}
+.dat_box .top{padding: 3.333vw 0;width: 92%;margin: 0 auto;font-size: 4.444vw;font-weight: bold;}
+.dat_box .top span{display: inline-block;width: 2.778vw;border-bottom: 1px solid #000;}
+.dat_box .mid{border-top: 1px solid #DDD;}
+.dat_box .mid .a1{width: 92%;margin: 0 auto;display: flex;border-bottom: 1px solid #EEE;justify-content: space-between;padding: 5.556vw 0;}
+.dat_box .mid .a1 .b1{width: 11.667vw;height: 11.667vw;border-radius: 50%;overflow: hidden;} 
+.dat_box .mid .a1 .b2{width: 81%;}
+.dat_box .mid .a1 .b2 .c1{font-size: 3.333vw;font-weight: bold;margin-bottom: 1.667vw;color: #5E5E5E;}
+
+.video_wait{padding-bottom: 5.556vw;}
+.video_wait .top{display: flex;justify-content: space-around;align-items: center;padding: 5.556vw 0;width: 92%;margin: 0 auto;border-bottom: 1px solid #EEE;}
+.video_wait .top .le{font-size: 5vw;font-family: gongl;}
+.video_wait .top .le span{font-family: gongb;color: #FF0000;}
+.video_wait .top .ri{width: 8.333vw;}
+
+.video_wait .bt_new{display: block;width: 92%;margin: 0 auto;padding: 4.444vw 0;font-weight: bold;font-size: 4.444vw;border-radius: 2.222vw;border: 1px solid #FF0000;color: #FF0000;}
+
+.bt_dub{display: block;width: 80%;margin: 22.222vw auto;padding: 4.444vw 0;font-size: 4.444vw;font-weight: bold;color: #FFF;background: #FF0000;border-radius: 2.222vw;}

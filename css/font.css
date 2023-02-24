@@ -1,0 +1,40 @@
+@font-face {
+    font-family: nab;
+    src: url(../font/NanumSquareB.ttf);
+}
+@font-face {
+    font-family: nar;
+    src: url(../font/NanumSquareR.ttf);
+}
+@font-face {
+    font-family: nabb;
+    src: url(../font/NanumSquareEB.ttf);
+}
+@font-face {
+    font-family: nal;
+    src: url(../font/NanumSquareL.ttf);
+}
+@font-face {
+    font-family: gongb;
+    src: url(../font/esamanru\ Bold.ttf);
+}
+@font-face {
+    font-family: jalnan;
+    src: url(../font/Jalnan.ttf);
+}
+@font-face {
+    font-family: mapleb;
+    src: url(../font/Maplestory\ Bold.ttf);
+}
+@font-face {
+    font-family: maplel;
+    src: url(../font/Maplestory\ Light.ttf);
+}
+@font-face {
+    font-family: gongm;
+    src: url(../font/esamanru\ Medium.ttf);
+}
+@font-face {
+    font-family: gongl;
+    src: url(../font/esamanru\ Light.ttf);
+}
